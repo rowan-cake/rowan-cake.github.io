@@ -22,6 +22,7 @@ author: Rowan Cake
 
 navbar-links:
   About Me: "aboutme"
+  Test: "Testest"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
