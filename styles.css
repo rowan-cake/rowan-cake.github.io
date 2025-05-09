@@ -49,6 +49,15 @@ h1 i {
     border-radius: 15px;
     padding: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.tutor-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .tutor-info h2 {
@@ -80,6 +89,9 @@ h1 i {
 .about-section {
     color: #4a5568;
     line-height: 1.6;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .about-section p {
