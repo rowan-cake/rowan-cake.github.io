@@ -48,7 +48,8 @@ h1 i {
     background: #f8fafc;
     border-radius: 15px;
     padding: 30px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 2px solid #667eea;
 }
 
 .tutor-info h2 {
